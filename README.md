@@ -2,7 +2,7 @@ mqtt2emoncms
 ============
 mqtt2emoncms is designed to allow sensor readings published via MQTT to be pushed into Emoncms v6 for graphing.
 
-Pre-requites
+Prerequisites
 -------------
 * Emoncms installed and working
 * Usual build tools installed (gcc, g++, etc)
